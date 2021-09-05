@@ -1,5 +1,4 @@
 # GG飛車
-![Image](https://github.com/lksj51790q/GGSpeed/blob/main/GGSpeedDemo.gif)<br>
 這是成圖技術與應用課程的期末專案。<br>
 成品下載：https://drive.google.com/file/d/1B6I6g-9iLVcwlU7talHCdQHAf4Am6HRU/view?usp=sharing<br>
 函式庫下載：https://drive.google.com/file/d/1SisYMnydmqgfYiP_jfjejtqD9e554ojA/view?usp=sharing<br>
@@ -19,3 +18,5 @@
     ├─physx                        PhysX提供的示範程式專案Snippet的部分程式檔案，用來簡化創建車輛物件過程，僅修改部分數值
     └─picture                      Printer用到的字母紋理、遊戲選單及設定背景圖片
 ```
+遊戲畫面：<br>
+![Image](https://github.com/lksj51790q/GGSpeed/blob/main/GGSpeedDemo.gif)<br>
