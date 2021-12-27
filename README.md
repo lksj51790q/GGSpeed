@@ -19,6 +19,13 @@
     │                              僅修改部分數值
     └─picture                      Printer用到的字母紋理、遊戲選單及設定背景圖片
 ```
+## 操作
+```
+WASD    移動
+L       手煞車
+R       恢復至上一個儲存點(被地形卡住時使用)
+JK      作弊功能，可無視地形直接向前後快速移動
+```
 ## 下載
 成品：https://drive.google.com/file/d/1B6I6g-9iLVcwlU7talHCdQHAf4Am6HRU/view?usp=sharing<br>
 函式庫：https://drive.google.com/file/d/1SisYMnydmqgfYiP_jfjejtqD9e554ojA/view?usp=sharing<br>
